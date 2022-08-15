@@ -1,0 +1,58 @@
+.testimonials{
+    padding: 80px 0;
+}
+.heading{
+    margin-bottom: 60px;
+}
+.heading h6{
+    font-size: 80px;
+}
+.single-box{
+    padding: 50px 30px 40px;
+    border-radius: 20px;
+    background: #fff;
+}
+.img-area{
+    margin: 45px 0 20px;
+}
+.single-box img{
+    max-width: 100px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+.single-box h4{
+    font-weight: 600;
+    margin: 0;
+    font-size: 35px;
+}
+ .single-box .img-area{
+    overflow: hidden;
+    float: left;
+    padding-left: 10px;
+ }
+ .single-box .content{
+    width: 70%;
+    float: left;
+    padding-left: 10px;
+ }
+ .single-box p{
+    margin: 10px 0 25px;
+    line-height: 2.3;
+ }
+ .clients-carousel .owldots{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -60px;
+    text-align: center;
+    width: 100%;
+ }
+ .clients-carousel .owl-dot{
+    width: 16px;
+    height: 16px;
+    background-color: #ddd;
+    display: inline-block;
+    margin: 0 6px;
+    text-align: center;
+    border-radius: 50%;
+ }
